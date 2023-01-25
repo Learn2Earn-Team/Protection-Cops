@@ -41,8 +41,8 @@ this Software support All operating System
 
 ## Guard Screenshots
 
-![App Screenshot](mobile(1).png)
-![App Screenshot](mobile.png)
+![App Screenshot](Screenshot/mobile(1).png)
+![App Screenshot](Screenshot/mobile.png)
 ## Technologies & Lnaguages 
 
 **Client:** Ionic 6.0 , Capacitor 3.0 & above , Angular , Java Script 

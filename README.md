@@ -36,10 +36,12 @@ this Software support All operating System
 
  - secreen shot1
  ![App Screenshot](Screenshot/1.PNG)
-![App Screenshot](Screenshot/1.PNG)
-![App Screenshot](Screenshot/1.PNG)
-![App Screenshot](Screenshot/1.PNG)
+![App Screenshot](Screenshot/2.PNG)
+![App Screenshot](Screenshot/3.PNG)
 
+## Guard Screenshots
+![App Screenshot](mobile (1).png)
+![App Screenshot](mobile.png)
 ## Technologies & Lnaguages 
 
 **Client:** Ionic 6.0 , Capacitor 3.0 & above , Angular , Java Script 
@@ -60,6 +62,8 @@ this Software support All operating System
  - username : admin
  - password : 1122
 [Security Admin app](https://learn2earn-security-admin.netlify.app).
+
+
  ### Guard Demo
  - username : haroon
  - password : 1234
